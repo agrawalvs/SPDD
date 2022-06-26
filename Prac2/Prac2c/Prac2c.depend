@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655700490 source:c:\users\kapil agrawal\desktop\ved project\spdd\prac2c\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
