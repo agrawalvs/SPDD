@@ -20,3 +20,4 @@ int main(){
     printf("Area of circle is %.2f\n" , AreaCircle(r));
     printf("Perimeter of circle is %.2f\n" , PeriCircle(r));
 }
+
